@@ -274,7 +274,7 @@ This is an **educational project** developed as part of the Capstone Assignment.
 
 ## 👨‍💻 Developer Information
 
-**Developer:** Ayush Dev Tripathyg  
+**Developer:** Ayush Dev Tripathy
 **Duration:** 5 Days  
 **Tested On:** Ubuntu Linux  
 **Compiler:** G++ (C++11)  
